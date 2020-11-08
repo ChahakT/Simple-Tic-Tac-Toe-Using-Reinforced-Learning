@@ -9,7 +9,7 @@ py -3 Play.py to play the game
 
 
 
-**Run this to train agent:**
+**Run this to train agent:(Code in Train.py)**
 
 game = TicTacToe(True) #init game, true implies training
 
@@ -25,7 +25,7 @@ game.saveStates()  #save Qtable
 
 
 
-**Human Vs Agent Game:**
+**Human Vs Agent Game:(Code in Play.py)**
 
 game = TicTacToe() #init game
 

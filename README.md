@@ -1,15 +1,15 @@
 # Simple-Tic-Tac-Toe-Using-Reinforced-Learning
 Train agents to learn a game of Tic Tac Toe
 
-The Agent learns to play the game using Reinforcement-learning (Q-learning). 
-
-The agent was self trained. 
+The Agent learns to play the game using Reinforcement-learning (Q-learning). The agent was self trained. 
 
 py -3 Train.py to train the agent
 
 py -3 Play.py to play the game
 
-Run this to train agent:
+
+
+**Run this to train agent:**
 
 game = TicTacToe(True) #init game, true implies training
 
@@ -24,7 +24,8 @@ game.train(250000) #250,000 iterations
 game.saveStates()  #save Qtable
 
 
-Human Vs Agent Game:
+
+**Human Vs Agent Game:**
 
 game = TicTacToe() #init game
 

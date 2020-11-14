@@ -1,4 +1,4 @@
-# Simple-Tic-Tac-Toe-Using-Reinforced-Learning
+# Simple Tic-Tac-Toe using Reinforced Learning
 Train agents to learn a game of Tic Tac Toe
 
 The Agent learns to play the game using Reinforcement-learning (Q-learning). The agent was self trained. 
